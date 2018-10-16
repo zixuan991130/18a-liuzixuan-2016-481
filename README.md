@@ -1,2 +1,4 @@
 # Fighting
-repository1
+My first repository on GitHub
+
+Fighting-Fighting-Fighting
